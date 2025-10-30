@@ -1,0 +1,2 @@
+# Ideas
+Implement connection reuse for external service calls
